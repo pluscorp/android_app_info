@@ -1,0 +1,11 @@
+# 최신 강제 업데이트 version code
+latest_forced_update_version_code: 0
+
+# 최신 version code
+latest_version_code: 21
+
+# 사업자 수수료율
+rate_of_customer_fee: 0.22
+
+# 근로자 수수료율
+rate_of_worker_fee: 0.11
