@@ -1,0 +1,17 @@
+# 최신 강제 업데이트 version code
+latest_forced_update_version_code: 0
+
+# 최신 version code
+latest_version_code: 21
+
+# 사업자 수수료율
+rate_of_customer_fee: 0.22
+
+# 근로자 수수료율
+rate_of_worker_fee: 0.11
+
+# 인증 서비스 점검 시작 시간 (포맷 : 2023-01-04T14:00:00)
+auth_service_maintenance_start_time: "2024-01-19T21:30:00"
+
+# 인증 서비스 점검 종료 시간 (포맷 : 2023-01-04T14:00:00)
+auth_service_maintenance_end_time: "2024-01-19T23:30:00"
