@@ -14,4 +14,4 @@ rate_of_worker_fee: 0.11
 auth_service_maintenance_start_time: ""
 
 # 인증 서비스 점검 종료 시간 (포맷 : 2023-01-04T14:00:00)
-auth_service_maintenance_end_time: ""
+auth_service_maintenance_end_time: "1"
