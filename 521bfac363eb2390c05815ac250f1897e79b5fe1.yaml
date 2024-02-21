@@ -29,3 +29,5 @@ auth_service_maintenance_end_time: ""
 community_notice:
   - text: 지인을 초대하고 혜택을 받아보세요!
     screen_route: link-sharing-event
+  - text: 앱 정책에 맞지 않는 게시글은 삭제 될 수 있으니 주의바랍니다.
+    screen_route: 
