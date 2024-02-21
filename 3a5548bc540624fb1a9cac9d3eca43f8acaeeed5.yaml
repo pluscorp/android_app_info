@@ -25,7 +25,7 @@ auth_service_maintenance_start_time: ""
 # 인증 서비스 점검 종료 시간 (포맷 : 2023-01-04T14:00:00)
 auth_service_maintenance_end_time: ""
 
-# 커뮤니티 NOTICE 문구 및 클릭 시 이동 Screen (없을 시 이동 안함), Json 으로 받기 위해 "text" 로 표시
+# 커뮤니티 NOTICE 문구 및 클릭 시 이동 Screen (없을 시 이동 안함)
 community_notice:
-  - "text": 지인을 초대하고 혜택을 받아보세요!
-    "screen_route": link-sharing-event
+  - text: 지인을 초대하고 혜택을 받아보세요!
+    screen_route: link-sharing-event
