@@ -1,11 +1,11 @@
 # 최신 강제 업데이트 version code
-latest_forced_update_version_code: 42
+latest_forced_update_version_code: 43
 
 # 최신 version code
 latest_version_code: 31
 
 # 세무사용 최신 강제 업데이트 version code
-latest_forced_update_version_code_for_accountant: 0
+latest_forced_update_version_code_for_accountant: 43
 
 # 세무사용 최신 version code
 latest_version_code_for_accountant: 28
