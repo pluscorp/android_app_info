@@ -20,10 +20,10 @@ rate_of_worker_fee: 0.11
 rate_of_worker_post_paid_fee: 0.22
 
 # 인증 서비스 점검 시작 시간 (포맷 : 2023-01-04T14:00:00)
-auth_service_maintenance_start_time: ""
+auth_service_maintenance_start_time: "2024-04-05T15:00:00"
 
 # 인증 서비스 점검 종료 시간 (포맷 : 2023-01-04T14:00:00)
-auth_service_maintenance_end_time: ""
+auth_service_maintenance_end_time: "2024-04-08T08:00:00"
 
 # 커뮤니티 NOTICE 문구 및 클릭 시 이동 Screen (없을 시 이동 안함)
 community_notice:
