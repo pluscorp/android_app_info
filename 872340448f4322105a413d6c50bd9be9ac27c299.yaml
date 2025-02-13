@@ -1,14 +1,14 @@
 # 최신 강제 업데이트 version code
-latest_forced_update_version_code: 83
+latest_forced_update_version_code: 85
 
 # 최신 version code
-latest_version_code: 83
+latest_version_code: 85
 
 # 세무사용 최신 강제 업데이트 version code
-latest_forced_update_version_code_for_accountant: 61
+latest_forced_update_version_code_for_accountant: 85
 
 # 세무사용 최신 version code
-latest_version_code_for_accountant: 83
+latest_version_code_for_accountant: 85
 
 # 사업자 수수료율
 rate_of_customer_fee: 0.22
